@@ -1,0 +1,6 @@
+/Dev_SimObjects/model/buildlog.txt
+*.max
+*.psd
+*.x*
+modeldef.xml
+uv_checker.dds

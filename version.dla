@@ -1,0 +1,263 @@
+;/ =====================================
+;/ Dans les Airs - Jodel DR-1050
+;/ Create by: David W.
+;/ Date: 30/08/2015
+;/ Version: 0.0.11
+;/ Contact: http://danslesairs.fr
+;/ Mail: wisser.david@gmail.com
+;/ =====================================
+
+
+0.0.11  / 30/08/2015
+
+- Correction des pièces disparues
+- Suppression de la texture texture/Jodel_DR-1050_ext_3_D.dds
+- Mise en place de la texture texture/Jodel_DR-1050_ext_2_D.dds pour l'AO
+- Correction d'alignement de pièce- - Test avec "TurboSmooth" sur le capot moteur
+- Mise à plat pour la création des textures d'ambiante occulusion
+- Test AO sur texture/Jodel_DR-1050_ext_2_D.dds coutures apparentes
+- Mise à jour de la texture Jodel_DR-1050_ext_1_D.dds
+- Correction texture ext_1_M
+- Création ambient occlusion
+- Amélioration du modèle 3D
+- Ajustement antenne
+- Suppression temporaire des textures non affectées
+- Retrait provisoire des repaints F-PJKG ainsi que TF-ULV
+- Essais textures 4096²
+- Correction "warning : Degenerate poly detected in file" sur la pièce "prop_left_side"
+- Correction de la variable pour l'animation du trim
+- Correction bug d'exportation animation "trimtab_elevator"
+- Correction animation élingue ailerons
+- Correction de groupe de lissage sur le cône de l'hélice
+- Amélioration dépliage UVW
+- Correctif matériau pour l'hélice
+- Correction spéculaire pour le pilot
+- Suppression du modèle intérieur
+- Correction matériaux hélice
+- Correction matériaux verrière
+- Changement de pilot
+- Ajout de l'animation du trim
+- Animation cable correction empennage fixé
+- Test animation câble correction empennage
+- Ajout lumière empennage
+- Ajout tole correction empennage
+- Ajout câble de réglage correction empennage
+- Ajout du pilot
+- Ajout de la texture UV Checker pour validation dépliage UVMap
+- Ajout de l'antenne NAV- Ajout de l'antenne COM- Ajout du beacon
+- Correction des dépliages UV
+- Correction texture "Heat_box" fixé
+- Début de correction des UVs pour les jauges
+- Phase de réaffectation des textures
+- Restructuration des textures
+
+
+0.0.10  / 01/09/2013
+
+- Ajout temporaire des instruments sur le modèle extérieur
+- Correction alignement verrière
+- Correction d'affectation de couleurs sur les pièces
+- Fusion temporaire du modèle intérieur & extérieur
+- Ré-organisation du fichier modèle 3D
+- Correction de la pièce "fuselage_seat"
+- Revu des "Smoothings Groups" du fuselage
+- Correction du fuselage intérieur
+- Correction affectation UV
+- Ajout des renforces latéraux
+- Mise à plat du plancher intérieur
+- Ajout de la roue du trim
+- Correction du fuselage intérieur
+- Correction emplacement des sièges avant
+- Correction des ceintures
+- Correction des sièges avant
+- Ajout de la commande des volets
+- Création d’une armature pour les sièges avant
+- Ajout du bouton radio commande gauche
+- Ajout d'une première version de ceinture à l'arrière
+- Correction du maillage des élingues
+- Correction du couple moteur
+- Ajout des commandes du palonnier
+- Amélioration du manche
+- Ajout d'un UV provisoire sur le canalis
+- Correction du canalis
+- Refonte complet du modèle intérieur
+- Correction matériau sur le train d'atterrissage
+- Suppression de la vue "Aile droite"
+- Ajout de la vue "Co-Pilote"
+- Quelques retouches du fichier "aircraft.cfg"
+- Correction des contacts au sol
+- Ajout d'une première version de siège
+- Ajout du manche
+- Ajout des soufflets du manche
+- Animation du manche ainsi que des soufflets
+- Revu de la forme du panel (modèle extérieur)
+- Ajout du canalis
+- Ajout du cache supérieur panel
+- Correction de la forme du fuselage intérieur
+- Correction des images clés pour l'hélice
+- Ajout du système de verrouillage pour les portes
+- Ajout de la structure tubulaire pour les portes
+- Ajout des charnières de porte
+- Amélioration du rendu de l'hélice en rotation
+- Animation des portes (SHIFT + E (:1 :2)
+- Découpage pour la création des portes
+- Création de la structure de la verrière
+- Création d'une épaisseur pour la vue intérieur
+- Amélioration des textures pour la verrière extérieure
+- Compilation au format "SPB" les fichiers "logic.xml" & "panel_options.xml"
+- Amélioration des capots de roue
+- Repositionnement des capots de roue
+- Correction de la symétrie sur l'empennage horizontale
+- Amélioration des dépliages UV pour le modèle extérieur
+- Amélioration / réorganisation des textures
+- Repositionnement du pitot ainsi que le cache pitot
+
+
+
+0.0.9  / 14/09/2012
+
+- Correction du bouton FPL sur le Garmin GNS 430
+- Création de l'autonomie entre les deux GPS Garmin GNS 430
+- Ajout d'une interface sonore pour les GPS Garmin GNS 430
+- Fonction ON/OFF sur les deux GPS Garmin GNS 430
+- Amélioration des sons OMI
+- Ajout de la gauge prototype du transpondeur GTX 327
+- Ajout du cache empennage arrière
+- Ajout et animation des ressorts pour la roulette de queue
+- Ajout et animation de la tringlerie pour l'empennage arrière
+- Ajout et animation de la tringlerie pour les ailerons
+- Ajout des Karman
+- Ajout des couples pour l'aile
+- Ajout de la coupe pour la mise en place des phares
+- Ajout des feux d'aile
+- Ajout du Pitot ainsi que du cache Pitot
+- Animation du Pitot (effet vent)
+- Mise à jour du panel de gestion avec l'ajout du cache Pitot
+- Amélioration des vibrations moteurs
+- Ajout de la jauge "logic.xml"
+
+
+0.0.8  / 07/07/2012
+
+- Suppression du transpondeur Garmin GTX 320A
+- Suppression de la radio Bendix / King KX 197
+- Création du panel IFR
+- Création de deux modèles pour l'intérieur et l'extérieur
+- Ajout de la purge du réservoir central
+- Ajout du moteur Continental O-200 100hp
+- Ajout des renforts du réservoir central
+- Ajout du réglage de la maquette de l'horizon artificiel
+- Amélioration de la roulette de queue
+- Animation de la roulette de queue
+- Correction de l'animation des roues
+- Ajout de la prise "Venturi"
+- Amélioration de la texture de l'hélice
+- Ajout de l'axe de l'hélice
+- Animation du cône d'hélice
+- Correction des textures sur le fuselage ainsi que l'empennage arrière
+- Création du répertoire "texture.common"
+
+
+0.0.7  / 09/04/2012
+
+- Suppression du Garmin GPS 500
+- Suppression de la jauge XML panel 2D pour essai
+- Suppression du panel 2D Cessna C172 de Microsoft
+- Ajout d'une fenêtre 2D pour gérer les otpions "MAJ+1"
+- Ajout de la jauge DSD_XML_Sound
+- Ajout d'un transpondeur Garmin GTX 320A (Uniquement le modèle 3D)
+- Ajout d'une radio Bendix / King KX 197 (Uniquement le modèle 3D)
+- Ajout des cales de roues
+- Essai d'animation hélice (still, slow et blurred)
+- Ajout d'une texture sur le capot moteur
+- Ajout d'une texture pour l'empennage vertical et horizontal
+- Ajout d'une texture pour les pneus du train principal
+- Ajout d'une texture pour la roulette de queue
+- Ajout d'une texture sur l'hélice ainsi que le cône d'hélice
+- Correction des animations sur les roues du train principal
+- Correction de l'animation sur la roulette de queue
+
+
+0.0.6 / 15/03/2012
+
+- Mise à jour du Garmin GPS 500
+- Mise à jour du code XML pour les jauges 3D
+- Création de la texture du fuselage extérieur
+- Première esquisse du panel de gestion
+- Ajout du réchauffeur
+- Suppression du switch batterie
+- Animation des ailerons
+- Restructuration du répertoire texture ainsi que des matériaux du modèle 3D
+- Ajout des textures "Normal Maps"
+- Ajout des textures "Ambiant Occlusion"
+- Revu de la texture pour la verrière
+- Modification des contacts points suite à l'ajout du réchauffeur
+- Utilisation de texture d'une taille de 2048x2048 (TEXTURE_MAX_LOAD=2048 dans le fichier fsx.cfg)
+- Ajout du panel 2D du Cessna 172 de Microsoft Flight Simulator X
+
+
+0.0.5 / 12/02/2012
+
+- Création du cône d'hélice
+- Création de l'hélice
+- Animation de l'hélice (prop0_still)
+- Revu des "Smoothings Groups" du fuselage
+- Ré-alignement de toutes les pièces par rapport au 0 de l'axe latéral
+- Intégration des modifications du fichier "air" et "aircraft.cfg" de Jean Gros du 29/01/12
+- Correction de l'animation des roues du train principal
+- Renforcement plus important sur la partie basse du fuselage, zone capot moteur
+- Raccord de l'aile par rapport au fuselage
+- Amélioration du capot moteur suite à l'ajout de l'hélice et du cône d'hélice
+- Revu de la fonction "Loft" de l'aile
+- Amélioration des ailerons
+- Suppression temporaire des animations sur les ailerons
+- Ajout du Garmin GPS 500
+- Ajout d'un altimètre
+- Ajout d'un variomètre
+- Ajout d'un anémomètre (badin)
+- Ajout d'une texture pour les jauges
+- Ajout d'une jauge XML panel 2D pour essai
+
+
+0.0.4 / 29/01/2012
+
+- Amélioration des flancs du fuselage à l'arrière (effet aplati)
+- Amélioration avant du fuselage (effet de rétrécissement) sur la zone du capot moteur
+- Amélioration du bosselage sur le capot moteur
+- Raccord du fuselage avec le capot moteur suite aux modifications des deux pièces
+- Mise en place d'un arrondi sur la partie inférieur du fuselage, zone capot moteur
+- Enfoncement du fuselage au niveau du capot moteur pour créer l'ouverture moteur
+- Mise en place d'une verrière prototype
+- Ajout d'une épaisseur ainsi que la transparence sur la verrière
+- Copie du modèle extérieur pour une utilisation du cockpit intérieur
+- Re-modélisation de l'aile à l'aide du profil NACA 23012
+- Découpage rapide des ailerons pour validation de l'animation
+- Animation des roues du train principal
+- Création d'une épaisseur pour le capot moteur
+- Découpe pour l'accès au bouchon d'huile
+- Ajout d'une texture pour voir la rotation des roues du train avant et la roulette de queue
+
+
+0.0.3 / 22/01/2012
+
+- Mise en page du fichier "aircraft.cfg"
+- Amélioration du capot moteur (Ajout d'arrondi sur la face avant)
+- Revu du nombre d'itération sur le capot moteur (Fonction "Loft")
+- Raccord du fuselage avec le capot moteur
+- Refonte des couples arrière du fuselage
+- Création de la coque intérieure
+- Essai de découpe pour la verrière
+- Ajout d'une verrière prototype sans aucune structure
+- Ajout d'une roulette de queue "symbolique" (Pour création des points contacts)
+- Revu la jonction des extérieur des ailes
+
+
+0.0.2 / 16/01/2012
+
+- Amélioration du fuselage
+- Utilisation du fichier air du Piper J3 CUB de Microsoft
+
+
+0.0.1 / 16/01/2012
+
+- Prototype du modèle extérieur seulement
