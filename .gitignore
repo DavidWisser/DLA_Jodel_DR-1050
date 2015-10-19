@@ -1,5 +1,6 @@
-/Dev_SimObjects/model/buildlog.txt
-*.max
+model/buildlog.txt
+texture/AO/*
+*.gmax
 *.psd
 *.x*
 modeldef.xml
