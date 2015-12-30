@@ -13,6 +13,7 @@ If you need support, go here: http://danslesairs.fr/
 
 V 1.1-beta		|		30/12/2015
 
+- Fixed bug #000013: Rotation of proppeller is incorrect
 - Fixed bug #000012: Incorrect placement for registration under the wing of F-BKHP repaint
 
 V 1.0-beta		|		26/12/2015
