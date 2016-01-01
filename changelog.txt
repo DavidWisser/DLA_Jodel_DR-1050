@@ -22,6 +22,7 @@ ENHANCEMENT
 FIX
 ---
 
+- Fixed bug #000019: Problem with texture for the suction indication gauge
 - Fixed bug #000018: Visiblity of glass gauge is not perfect
 - Fixed bug #000017: Incoherence parameters for the engine (little modifications)
 - Fixed bug #000016: Incoherence flaps between the 3D model and flight model
