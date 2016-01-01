@@ -17,6 +17,7 @@ ENHANCEMENT
 -----------
 
 - Improvement the view for the co-pilot
+- Fuel gauges fully functional
 
 
 FIX
