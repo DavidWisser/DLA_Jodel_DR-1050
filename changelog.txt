@@ -16,8 +16,9 @@ V 1.1-beta		|		30/12/2015
 ENHANCEMENT
 -----------
 
-- Improvement the view for the co-pilot
+- Oil temperature gauge fully functional
 - Fuel gauges fully functional
+- Improvement the view for the co-pilot
 
 
 FIX
