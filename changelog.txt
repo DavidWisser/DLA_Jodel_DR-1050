@@ -16,6 +16,7 @@ V 1.1-beta		|		30/12/2015
 ENHANCEMENT
 -----------
 
+- Little improvement for hour meter gauge
 - Oil pressure gauge fully functional
 - Voltmeter gauge fully functional
 - Fuel pressure gauge fully functional
