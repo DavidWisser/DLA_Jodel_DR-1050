@@ -16,7 +16,7 @@ V 1.1-beta		|		30/12/2015
 ENHANCEMENT
 -----------
 
-- Battery switch and alternator switch is fully functional
+- Battery switch, pump switch and alternator switch is fully functional
 - Mixture lever, carburator heat lever and throttle lever is fully functional
 - Adding breaker, heating and "bat / alt" marking on the panel
 - Reduce polygon to optimize the 3D model
