@@ -16,6 +16,7 @@ V 1.1-beta		|		30/12/2015
 ENHANCEMENT
 -----------
 
+- Magneto key switch is fully fonctional
 - Adding all missing indications on panel
 - Battery switch, pump switch and alternator switch is fully functional
 - Mixture lever, carburator heat lever and throttle lever is fully functional
