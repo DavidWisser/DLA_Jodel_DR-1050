@@ -16,6 +16,7 @@ V 1.1-beta		|		30/12/2015
 ENHANCEMENT
 -----------
 
+- Light switch is fully functional
 - Parking brake is fully functional
 - Upgrade the 3D model of transponder
 - Improve the "aircraft.cfg" file
