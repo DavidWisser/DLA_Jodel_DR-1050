@@ -2,13 +2,26 @@
 ;/ Dans les Airs - Jodel DR-1050
 ;/ Name: changelog.txt
 ;/ Create by: Dans les Airs
-;/ Date: 30/12/2015
-;/ Version: 1.1-beta
+;/ Date: 10/01/2016
+;/ Version: 1.2-beta
 ;/ Contact: http://danslesairs.fr
 ;/ Mail: wisser.david@gmail.com
 ;/ =====================================
 
 If you need support, go here: http://danslesairs.fr/
+
+
+V 1.2-beta		|		10/01/2016
+
+ENHANCEMENT
+-----------
+
+
+
+FIX
+---
+
+
 
 
 V 1.1-beta		|		30/12/2015
