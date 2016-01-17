@@ -16,6 +16,7 @@ V 1.2-beta		|		10/01/2016
 ENHANCEMENT
 -----------
 
+- Add pump indication on panel
 - Panel lights is fully functional
 
 
