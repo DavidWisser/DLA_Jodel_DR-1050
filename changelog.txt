@@ -26,6 +26,7 @@ ENHANCEMENT
 FIX
 ---
 
+- Fixed bug #000021: Rotation of magneto key is reverse
 
 
 
