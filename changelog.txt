@@ -22,6 +22,7 @@ ENHANCEMENT
 - Add mixture indication on panel
 - Add pump indication on panel
 - Panel lights is fully functional
+- Turn coordinator is fully functional
 
 
 FIX
