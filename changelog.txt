@@ -28,6 +28,7 @@ FIX
 ---
 
 - Fixed bug #000021: Rotation of magneto key is reverse
+- Fixed bug #000025: Out of range for the mobile part of attitude indicator is fix
 
 
 
