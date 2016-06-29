@@ -23,6 +23,7 @@ ENHANCEMENT
 - Add pump indication on panel
 - Panel lights is fully functional
 - Turn coordinator is fully functional
+- Increase quality graphic of a set of gauge
 
 
 FIX
