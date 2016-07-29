@@ -16,6 +16,7 @@ V 1.2-beta		|		10/01/2016
 ENHANCEMENT
 -----------
 
+- Add magnetic compass
 - Improve flight dynamic (with Jean-Pierre Bourgeois)
 - Add engine starter on panel
 - Add carburator heat indication on panel
@@ -29,8 +30,8 @@ ENHANCEMENT
 FIX
 ---
 
-- Fixed bug #000021: Rotation of magneto key is reverse
 - Fixed bug #000025: Out of range for the mobile part of attitude indicator is fix
+- Fixed bug #000021: Rotation of magneto key is reverse
 
 
 
